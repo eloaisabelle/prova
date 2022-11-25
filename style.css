@@ -29,3 +29,6 @@ strong {
 #em {
     font-size: larger;
 }
+em {
+    color: blue;
+}
