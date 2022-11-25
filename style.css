@@ -18,6 +18,14 @@ strong {
     color:rgb(133, 70, 206)
 }
 
-em {
-    color: rgb(84, 224, 224);
+#strong {
+    font-size: larger;
+}
+
+#p {
+    font-size: medium;
+}
+
+#em {
+    font-size: larger;
 }
