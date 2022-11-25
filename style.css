@@ -15,7 +15,7 @@ p {
 }
 
 strong {
-    color:rgb(133, 70, 206)
+    color:rgb(133, 70, 206);
 }
 
 #strong {
@@ -29,6 +29,7 @@ strong {
 #em {
     font-size: larger;
 }
+
 em {
     color: blue;
 }
