@@ -1,12 +1,12 @@
-body{
+body {
     background-color: rgb(60, 73, 148);
 }
  
-h1{
+h1 {
     text-align: center;
 }
  
-p{
+p {
     text-align: center;
 }
 
@@ -14,7 +14,7 @@ p{
     font-size: large;
 }
 
- p strong {
+strong {
     color:rgb(133, 70, 206)
 }
 
