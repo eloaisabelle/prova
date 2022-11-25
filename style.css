@@ -1,1 +1,19 @@
+body{
+    background-color: rgb(60, 73, 148);
+}
+ 
+h1{
+    text-align: center;
+}
+ 
+p{
+    text-align: center;
+}
 
+#Aeronáutica {
+    font-size: large;
+}
+
+em strong {
+    color:rgb(133, 70, 206)
+}
